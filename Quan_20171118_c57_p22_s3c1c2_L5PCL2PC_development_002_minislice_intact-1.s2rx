@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CEDResources>
+	<DocTime>
+		<View>
+			<WPlace flags="0" showc="1" minx="-1" miny="-1" maxx="-1" maxy="-1" t="25" b="474" l="25" r="1245"/>
+			<Font hgt="-11" hthou="-115" wgt="400" paf="16" fnam="Times New Roman"/>
+			<Chan Chan="3" DMode="11" AxMin="-215.423583984375" AxMax="2133.758544921875" AdcAxMin="-215.423583984375" AdcAxMax="2133.758544921875" FreqAxMax="2500" AxType="1" ChType="1" BackOv="0"/>
+			<Chan Chan="2" DMode="11" AxMin="-87.99285888671875" AxMax="64.64691162109375" AdcAxMin="-87.99285888671875" AdcAxMax="64.64691162109375" FreqAxMax="25000.000000000004" AxType="1" ChType="1" BackOv="0"/>
+			<Chan Chan="1" DMode="11" AxMin="-224.9298095703125" AxMax="2131.9732666015625" AdcAxMin="-224.9298095703125" AdcAxMax="2131.9732666015625" FreqAxMax="2500" AxType="1" ChType="1" BackOv="0"/>
+			<Chan Chan="0" DMode="11" AxMin="-112.21160888671875" AxMax="51.57318115234375" AdcAxMin="-112.21160888671875" AdcAxMax="51.57318115234375" FreqAxMax="25000.000000000004" AxType="1" ChType="1" BackOv="0"/>
+			<XInfo Right="300.18082999999996" XAxSmall="5" CRBack="0" VCLabMode="2" HCLabMode="1" VCCount="1">
+				<VCur id="0" LabMode="2" LabPos="0.2" Num="0"/>
+			</XInfo>
+			<ChOrder Chans="4">
+				<c id="0" Chan="3"/>
+				<c id="1" Chan="2"/>
+				<c id="2" Chan="1"/>
+				<c id="3"/>
+			</ChOrder>
+			<CursVals XZero="0" YZero="0"/>
+			<CursRegs XZero="0" YZero="0"/>
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+		</View>
+	</DocTime>
+</CEDResources>
